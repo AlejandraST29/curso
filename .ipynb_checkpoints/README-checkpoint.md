@@ -29,7 +29,7 @@ If you're having trouble with the following links, try viewing the material
 
 [Notebook Index](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb)
 
-1.foo (http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb)
+1. [Introduction](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/00-Introduction.ipynb)
 2. [How to Run Python Code](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/01-How-to-Run-Python-Code.ipynb)
 3. [Basic Python Syntax](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/02-Basic-Python-Syntax.ipynb)
 4. [Python Semantics: Variables](http://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/03-Semantics-Variables.ipynb)
@@ -61,7 +61,3 @@ An attribution usually includes the title, author, publisher, and ISBN.
 For example:
 
 > A Whirlwind Tour of Python by Jake VanderPlas (O’Reilly). Copyright 2016 O’Reilly Media, Inc., 978-1-491-96465-1.
-
->En algún lugar de la mancha
-$ÑOÑA$
-$Amanecí$ $PYTHON$
